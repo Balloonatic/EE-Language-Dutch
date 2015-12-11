@@ -1,7 +1,6 @@
 <?php
 $lang = array(
 
-
 'delete_member' => 
 'Verwijder Lid',
 
@@ -9,7 +8,7 @@ $lang = array(
 'Het is niet toegestaan de volgende tekens in uw schermnaam te gebruiken: &lt;&gt;',
 
 'notify_of_pm' => 
-'Stuur me een e-mail als iemand mij een priv&#233; bericht heeft gestuurd',
+'Stuur mij een e-mail als iemand mij een priv&#233; bericht heeft gestuurd',
 
 'channel_preferences' => 
 'Channel Instellingen',
@@ -57,13 +56,13 @@ $lang = array(
 'Tab Manager is Ge&#252;pdatet',
 
 'main_menu_manager_description' => 
-'Deze pagina laat u uw custom hoofd navigatie knoppen beheren. De knoppen die u toevoegt zijn alleen zichtbaar door u.',
+'Deze pagina laat u uw custom hoofdnavigatie knoppen beheren. De knoppen die u toevoegt zijn alleen zichtbaar voor u.',
 
 'main_menu_manager_description_more' => 
-'Let op: U kunt geen knoppen maken voor top-level pagina\'s omdat er al tabs voor hen bestaan.',
+'Let op: U kunt geen knoppen maken voor top-level pagina\'s omdat er hiervoor al tabs bestaan.',
 
 'main_menu_manager_instructions' => 
-'Om een nieuw hoofdmenu knop toe te voegen bezoekt u eerst een betreffende pagina, klik daarna op de &#39;+ Toevoegen&#39; link  rechtsboven in de hoofdnavigatie.',
+'Om een nieuw hoofdmenu knop toe te voegen, bezoekt u eerst de betreffende pagina, klik daarna op de &#39;+ Toevoegen&#39; link rechtsboven in de hoofdnavigatie.',
 
 'tab_manager_newlink' => 
 'Voeg nieuwe Tab toe',
@@ -81,7 +80,7 @@ $lang = array(
 'Maak een nieuwe Tab',
 
 'new_tab_title' => 
-'Nieuwe Tab Titel',
+'Nieuwe Tabtitel',
 
 'tab_url' => 
 'Tab URL',
@@ -114,7 +113,7 @@ $lang = array(
 'Uitschrijven',
 
 'subscriptions_removed' => 
-'Inschrijving zijn verwijderd',
+'Inschrijving is verwijderd',
 
 'comment' => 
 'Reactie',
@@ -153,13 +152,13 @@ $lang = array(
 'De tien meest recente ledenregistraties',
 
 'new_release_indicator' => 
-'Nieuwe softwarereleas indicator',
+'Nieuwe software release indicator',
 
 'site_statistics' => 
 'Site statistieken',
 
 'member_search_form' => 
-'Leden zoek formulier',
+'Leden zoekformulier',
 
 'validating_members' => 
 'Leden die wachten op activatie',
@@ -183,7 +182,7 @@ $lang = array(
 'Leden:',
 
 'member_stats' => 
-'Account Statistieken voor:',
+'Accountstatistieken voor:',
 
 'join_date' => 
 'Datum van aanmelding',
@@ -336,7 +335,7 @@ $lang = array(
 'Schakel automatisch de e-mail notificaties in als u berichten plaatst?',
 
 'location' => 
-'Lokatie',
+'Locatie',
 
 'occupation' => 
 'Beroep',
@@ -357,7 +356,7 @@ $lang = array(
 'MSN IM',
 
 'user_ip_address' => 
-'IP Adres',
+'IP-adres',
 
 'member_group_assignment' => 
 'Ledengroep toewijzing',
@@ -399,7 +398,7 @@ $lang = array(
 'Uw Huidige Wachtwoord',
 
 'invalid_email_address' => 
-'Het e-mail adres dat u gekozen heeft is niet geldig',
+'Het e-mailadres dat u gekozen heeft is niet geldig',
 
 'missing_username' => 
 'U moet een gebruikersnaam invoeren',
@@ -411,49 +410,49 @@ $lang = array(
 'U moet een wachtwoord invoeren',
 
 'missing_current_password' => 
-'Om de veranderingen door te voeren moet u uw huidige wachtwoord invoeren',
+'Om de wijzigingen door te voeren, dient u uw huidige wachtwoord in te voeren',
 
 'password_in_dictionary' => 
-'Het is niet toegestaan een woord te kiezen die in het woordenboek voorkomt.',
+'Het is niet toegestaan een woord te kiezen dat in het woordenboek voorkomt.',
 
 'not_secure_password' => 
 'Uw wachtwoord moet op z&#39;n minst 1 hoofdletter, 1 kleine letter en een cijfer bevatten',
 
 'invalid_password' => 
-'Het wachtwoord dat u invoerde is niet juist',
+'Het wachtwoord dat u heeft ingevoerd, is niet juist',
 
 'missing_email' => 
 'U moet een e-mailadres invoeren',
 
 'banned_email' => 
-'Het e-mailadres dat u invoerde is geblokkeerd',
+'Het e-mailadres dat u heeft ingevoerd, is geblokkeerd',
 
 'missmatched_passwords' => 
-'De 2 wachtwoorden die u invoerde komen niet overeen',
+'De 2 wachtwoorden die u heeft ingevoerd, komen niet overeen',
 
 'username_too_short' => 
-'De gebruikersnaam die u invoerd moet minimaal uit %x karakters bestaan',
+'De gebruikersnaam die u heeft ingevoerd, moet minimaal uit %x karakters bestaan',
 
 'password_too_short' => 
-'Het wachtwoord dat u invoerd moet minimaal uit %x karakters bestaan',
+'Het wachtwoord dat u heeft ingevoerd, moet minimaal uit %x karakters bestaan',
 
 'username_password_too_long' => 
 'Gebruikersnamen en wachtwoorden kunnen niet meer dan 32 karakters lang zijn',
 
 'username_taken' => 
-'De gebruikersnaam die u koos is niet beschikbaar',
+'De gebruikersnaam die u heeft gekozen, is niet beschikbaar',
 
 'screen_name_taken' => 
-'De weergave naam die u koos is niet beschikbaar',
+'De weergave naam die u heeft gekozen, is niet beschikbaar',
 
 'email_taken' => 
-'Het e-mailadres dat u koos is niet beschikbaar',
+'Het emailadres dat u heeft ingevoerd, is al in gebruik',
 
 'valid_user_email' => 
-'Het e-mailadres dat u koos is niet geldig',
+'Het e-mailadres dat u heeft ingevoerd, is niet geldig',
 
 'password_based_on_username' => 
-'Het wachtwoord kan niet gebasseerd zijn op uw gebruikersnaam',
+'Het wachtwoord kan niet gebaseerd zijn op uw gebruikersnaam',
 
 'username_changed' => 
 'Uw gebruikersnaam is veranderd in:',
@@ -471,7 +470,7 @@ $lang = array(
 'Leden Profiel gemaakt:',
 
 'password_change_warning' => 
-'Let Op: U heeft uw wachtwoord veranderd en u zult opnieuw moeten inloggen.',
+'Let Op: U heeft uw wachtwoord gewijzigd waardoor u opnieuw dient in te loggen.',
 
 'ping_servers' => 
 'Ping Servers',
@@ -498,9 +497,9 @@ $lang = array(
 'Deze links zijn alleen zichtbaar voor u',
 
 'quicklinks_delete_instructions' => 
-'Om een item te verwijderen maak het titelveld leeg en druk op wijzigen',
+'Maak het titelveld leeg om een item te verwijderen. Klik vervolgens op wijzigen',
 
-'link_title' => 
+'link_title' =>
 'Link Titel',
 
 'link_url' => 
@@ -522,7 +521,7 @@ $lang = array(
 'Een Bladwijzer geeft u de mogelijkheid om toevoegingen aan uw weblog te maken zonder in te loggen op het control panel',
 
 'bookmarklet_name' => 
-'Naam Van Uw Bladwijzer',
+'Naam van uw Bladwijzer',
 
 'single_word_no_spaces' => 
 '1 woord, geen spaties',
@@ -537,13 +536,13 @@ $lang = array(
 'Selecteer het standaard veld waarin uw bericht geplaatst moet worden',
 
 'bookmarklet_next_step' => 
-'Volgde stap',
+'Volgende stap',
 
 'create_the_bookmarklet' => 
 'Maak een Bladwijzer aan',
 
-'no_fields_assigned_to_channel' => 
-'Het Channel dat u gekozen heeft heeft geen Veldgroep aan zich toegekend.',
+'no_fields_assigned_to_channel' =>
+'Het Channel dat u heeft gekozen, is niet gekoppeld aan een Veldgroep.',
 
 'bookmarklet_instructions' => 
 'Bewaar deze link in uw favorieten menu:',
